@@ -1,0 +1,6 @@
+my_result/
+__MACOSX/
+StoryGAN_pororo/
+clevr_dataset/
+.vscode
+__pycache__

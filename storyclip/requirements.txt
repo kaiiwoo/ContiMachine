@@ -1,0 +1,2 @@
+#nsml: nsml/default_ml:latest
+stylegan2_pytorch
